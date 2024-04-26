@@ -5,7 +5,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
 - ⚡ Fun fact **I am funny😅**
 
