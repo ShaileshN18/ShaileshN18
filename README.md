@@ -1,15 +1,68 @@
-<h1 align="center">Hi 👋, I'm Shailesh Nandan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# SHAILESH NANDAN
 
+**B.TECH in Computer Science & Engineering · GGSIPU Delhi · 2027**
 
-<p align="left">
-</p>
+Building scalable systems at the intersection of **distributed systems, computer networks, machine learning, and systems programming**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaileshn18&show_icons=true&locale=en" alt="shaileshn18" /></p>
+## 🚀 Working On
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshn18&" alt="shaileshn18" /></p>
+- Continual Learning for Edge AI – resource-efficient online model adaptation on edge devices
+- Distributed Network Simulation for Large-Scale LLM Training
+- Low-latency distributed systems and real-time communication architectures
 
+---
+
+## 💻 Technical Stack
+
+### Languages
+**C · C++ · Python · SQL**
+
+### Systems & Backend
+**Linux · Distributed Systems · Concurrency · Multithreading · FastAPI · Node.js · Express.js · REST APIs**
+
+### Computer Networks
+**TCP · RDMA · NCCL · Redis Pub/Sub · Server-Sent Events (SSE) · gRPC**
+
+### Databases
+**MongoDB · PostgreSQL · Redis**
+
+### Machine Learning
+**PyTorch · OpenCV**
+
+### Developer Tools
+**Git · GitHub · Linux CLI · VS Code · Visual Studio · Makefile**
+
+---
+
+## 📚 Currently Learning
+
+- High-Performance Computing (HPC)
+- Operating Systems Internals
+- Distributed Systems and Network Protocols
+- Large-Scale AI Infrastructure
+
+---
+
+## 📌 Featured Projects
+
+- **Distributed Network Simulator for Large-Scale LLM Training**
+- **Responsive Resource-Efficient Continual Learning for Edge AI**
+- **Cellular Network Simulator (2G/3G/4G/5G)**
+- **Neural Image Codec using ResNet-101 Weight Encoding**
+
+---
+
+## 🏆 Achievements
+
+- **GATE CSE 2025: 98.4 Percentile** 
+- M.Tech CSE @ IIIT Delhi
+- Former Software Development Engineer Intern @ Cirrus
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** *(www.linkedin.com/in/shailesh-nandan-313a6327b)*
+- **Email:** shailesh181020@gmail.com
