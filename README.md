@@ -17,10 +17,10 @@ Building scalable systems at the intersection of **distributed systems, computer
 ## 💻 Technical Stack
 
 ### Languages
-**C · C++ · Python · SQL**
+** C++ · Python · SQL**
 
 ### Systems & Backend
-**Linux · Distributed Systems · Concurrency · Multithreading · FastAPI · Node.js · Express.js · REST APIs**
+** Distributed Systems · Concurrency · Multithreading · FastAPI · Node.js · Express.js · REST APIs**
 
 ### Computer Networks
 **TCP · RDMA · NCCL · Redis Pub/Sub · Server-Sent Events (SSE) · gRPC**
@@ -47,10 +47,10 @@ Building scalable systems at the intersection of **distributed systems, computer
 
 ## 📌 Featured Projects
 
-- **Distributed Network Simulator for Large-Scale LLM Training**
-- **Responsive Resource-Efficient Continual Learning for Edge AI**
-- **Cellular Network Simulator (2G/3G/4G/5G)**
-- **Neural Image Codec using ResNet-101 Weight Encoding**
+- ****
+- ****
+- ***
+- ****
 
 ---
 
